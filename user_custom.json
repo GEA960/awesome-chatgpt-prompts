@@ -1,0 +1,23 @@
+[
+  {
+    "cmd": "Dax > Gsheet",
+    "act": "Dax > Gsheet",
+    "tags": [],
+    "enable": true,
+    "prompt": "Turn this Dax Formula into Google Sheets Formula"
+  },
+  {
+    "cmd": "Gsheet > Dax",
+    "act": "Gsheet > Dax",
+    "tags": [],
+    "enable": true,
+    "prompt": "Turn this Sheets Formula into Google Dax Formula"
+  },
+  {
+    "cmd": "Poem about Love",
+    "act": "Poem about Love",
+    "tags": [],
+    "enable": true,
+    "prompt": "Make me a poem about love"
+  }
+]
